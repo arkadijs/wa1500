@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Treniņi"
+    url: /trenini/
+  - title: "Sacensības"
+    url: /sacensibas/
+  - title: "Klubs"
+    url: /klubs/
+  - title: "Noteikumi"
+    url: /noteikumi/
+  - title: "wa1500.org"
+    url: https://wa1500.org/
