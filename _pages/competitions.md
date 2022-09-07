@@ -8,7 +8,7 @@ PPC 48 attālumi ir no 3 lidz 25m. PPC 60 un 1500 sacensības notiek tur kur ir 
 Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslapā](http://www.saufed.lv/index.php?lng=lLat&current=m13p71i778).
 
 - Augusts 6-7, [Kurzemes atklātais čempionāts WA 1500](https://www.facebook.com/events/1206843720062886/)
-- Oktobris, [LPSC](https://lpsc.lv) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m)
+- Oktobris 8-9, [LPSC](https://lpsc.lv) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m)
 - Novembris, Walters kauss
 
 ## Sacensības ārzemēs
