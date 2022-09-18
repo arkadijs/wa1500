@@ -7,9 +7,13 @@ layout: splash
 PPC 48 attālumi ir no 3 lidz 25m. PPC 60 un 1500 sacensības notiek tur, kur ir peejama 50m distance: Rīgā [Walters](http://shooting.lv) šautuvē un Ventspilī [Sporta nams "Centrs"](https://www.ocventspils.lv/kompleksi/sporta-nams-centrs).
 Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslapā](http://www.saufed.lv/index.php?lng=lLat&current=m13p71i778).
 
-- Augusts 6-7, [Kurzemes atklātais čempionāts WA 1500](https://www.facebook.com/events/1206843720062886/)
-- Oktobris 8-9, [LPSC](https://lpsc.lv) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m)
-- Novembris, Walters kauss
+- 24.aprīlis, Walters kauss 2022 1/4
+- 6-7.augusts, [Kurzemes atklātais čempionāts WA 1500](https://www.facebook.com/events/1206843720062886/)
+- 8.oktobris, [LPSC](https://lpsc.lv) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m)
+- 16.oktobris, Walters kauss 2022 2/4, [nolikums](/assets/nolikumi/walters-kauss-2022.pdf); pieteikumi pa tālruni 22158877
+- 20.novembris, Walters kauss 2022 3/4
+- 10-11.decembris, Ventspils atklātais čempionāts WA 1500
+- 18.decembris, Walters kauss 2022 4/4
 
 ## Sacensības ārzemēs
 
