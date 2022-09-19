@@ -9,7 +9,7 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 
 - 24.aprīlis, Walters kauss 2022 1/4
 - 6-7.augusts, [Kurzemes atklātais čempionāts WA 1500](https://www.facebook.com/events/1206843720062886/)
-- 8.oktobris, [LPSC](https://lpsc.lv) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m)
+- 8.oktobris, [LPSC](https://lpsc.lv/lv/Sacensiibas) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m), [nolikums](/assets/nolikumi/lpsc-oktobris-2022.pdf); pieteikumi pa tālruni 20052535 vai <riga.hit.factor@gmail.com>
 - 16.oktobris, Walters kauss 2022 2/4, [nolikums](/assets/nolikumi/walters-kauss-2022.pdf); pieteikumi pa tālruni 22158877
 - 20.novembris, Walters kauss 2022 3/4
 - 10-11.decembris, Ventspils atklātais čempionāts WA 1500
