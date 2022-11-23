@@ -11,9 +11,9 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 - 6-7.augusts, [Kurzemes atklātais čempionāts WA 1500](https://www.facebook.com/events/1206843720062886/)
 - 8.oktobris, [LPSC](https://lpsc.lv/lv/Sacensiibas) [PPC 48 un 60](https://www.facebook.com/events/630504918610483) (samazinātie mērķi / reduced targets 50m), [nolikums](/assets/nolikumi/lpsc-oktobris-2022.pdf); rezultāti: [PPC 48](/assets/rezultati/lpsc-oktobris-2022-ppc48.pdf), [PPC 60](/assets/rezultati/lpsc-oktobris-2022-ppc60.pdf)
 - 16.oktobris, Walters kauss 2022 2/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2022-2-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2022-2-ppc60.jpg)
-- 20.novembris, Walters kauss 2022 3/4, [nolikums](/assets/nolikumi/walters-kauss-2022.pdf); pieteikumi pa tālruni 22158877
 - 10-11.decembris, Ventspils atklātais čempionāts WA 1500
-- 18.decembris, Walters kauss 2022 4/4
+- 20.novembris, Walters kauss 2022 3/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2022-3-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2022-3-ppc60.jpg)
+- 18.decembris, Walters kauss 2022 4/4, [nolikums](/assets/nolikumi/walters-kauss-2022.pdf); pieteikumi pa tālruni 22158877
 
 ## Sacensības ārzemēs
 
