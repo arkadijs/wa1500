@@ -12,8 +12,9 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 - 8.oktobris, [LPSC](https://lpsc.lv/lv/Sacensiibas) [PPC 48 un 60](https://www.facebook.com/events/630504918610483) (samazinātie mērķi / reduced targets 50m), [nolikums](/assets/nolikumi/lpsc-oktobris-2022.pdf); rezultāti: [PPC 48](/assets/rezultati/lpsc-oktobris-2022-ppc48.pdf), [PPC 60](/assets/rezultati/lpsc-oktobris-2022-ppc60.pdf)
 - 16.oktobris, Walters kauss 2022 2/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2022-2-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2022-2-ppc60.jpg)
 - 20.novembris, Walters kauss 2022 3/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2022-3-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2022-3-ppc60.jpg)
-- 10.decembris, Ventspils atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2022.pdf); pieteikumi pa tālruni 20052535 vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com)
+- 10.decembris, [Ventspils atklātais čempionāts WA 1500](https://www.facebook.com/events/836657437453752/), [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2022.pdf); rezultāti: [PPC 48](/assets/rezultati/ventspils-atklatais-cempionats-2022-ppc48.pdf), [PPC 60](/assets/rezultati/ventspils-atklatais-cempionats-2022-ppc60.pdf), [1500](/assets/rezultati/ventspils-atklatais-cempionats-2022-1500.pdf)
 - 18.decembris, Walters kauss 2022 4/4, [nolikums](/assets/nolikumi/walters-kauss-2022.pdf); pieteikumi pa tālruni 22158877
+ <!--- Janvāris 2023., [LPSC](https://lpsc.lv/lv/Sacensiibas) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m); pieteikumi pa tālruni 29426778 vai e-pastā [riga.hit.factor@gmail.com]-->
 
 ## Sacensības ārzemēs
 
