@@ -9,7 +9,7 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 
 ### 2023
 
-- 19.februāris, Walters kauss 2023 1/4
+- 19.februāris, Walters kauss 2023 1/4, [nolikums](/assets/nolikumi/walters-kauss-2023.pdf); pieteikumi pa tālruni 22158877
 - 23.aprīlis, Walters kauss 2023 2/4
 - maijs, Latvijas čempionāts WA 1500
 - 8.oktobris, Walters kauss 2023 3/4
