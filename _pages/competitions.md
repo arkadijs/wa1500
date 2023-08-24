@@ -33,6 +33,7 @@ Sacensības notiek arī Eiropā un citur pasaulē. Oficiālais sacensību [kalen
 
 - Augusts 15-21, [Eiropas čempionāts 2022](http://www.ppc1500.cz/result2022.htm)
 - Augusts 15-20, Pasaules čempionāts 2023, Zviedrijā, Stokholma
+- Augusts 18-25, [Eiropas čempionāts 2024](https://docs.google.com/presentation/d/1XwSit1_EBYwW9TPhdYyvtdXUnsPfrW6I) Rumānijā, Bukareste.
 
 ## Klasifikācija
 
