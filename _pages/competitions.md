@@ -9,9 +9,12 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 
 ### 2024
 
-- 18.februāris, Walters kauss 2024 1/4, [nolikums](/assets/nolikumi/walters-kauss-2024.pdf); pieteikumi pa tālruni 22158877
-- 21.aprīlis, Walters kauss 2024 2/4
+- 18.februāris, Walters kauss 2024 1/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2024-1-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2024-1-ppc60.pdf)
+- marts, Match 1500 (Walters šautuvē)
+- maijs, Latvijas atklātais čempionāts WA 1500 (Ventspilī) <!--; pieteikumi pa tālruni 29426778 vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com)-->
+- 21.aprīlis, Walters kauss 2024 2/4, [nolikums](/assets/nolikumi/walters-kauss-2024.pdf) <!--; pieteikumi pa tālruni 22158877-->
 - 13.oktobris, Walters kauss 2024 3/4
+- novembris, Ventspils atklātais čempionāts WA 1500
 - 8.decembris, Walters kauss 2024 4/4
 
 ### 2023
@@ -20,7 +23,7 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 - 23.aprīlis, Walters kauss 2023 2/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2023-2-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2023-2-ppc60.pdf)
 - 13-14.maijs, Latvijas atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/latvijas-atklatais-cempionats-2023.pdf); rezultāti: [PPC 48](/assets/rezultati/latvijas-atklatais-cempionats-2023-ppc48.pdf), [PPC 60](/assets/rezultati/latvijas-atklatais-cempionats-2023-ppc60.pdf), [1500](/assets/rezultati/latvijas-atklatais-cempionats-2023-1500.pdf)
 - 8.oktobris, Walters kauss 2023 3/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2023-3-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2023-3-ppc60.jpg)
-- 11-12.novembris, Ventspils atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2023.pdf); rezultāti: [PPC 48](/assets/rezultati/ventspils-atklatais-cempionats-2023-ppc48.pdf), [PPC 60](/assets/rezultati/ventspils-atklatais-cempionats-2023-ppc60.pdf), [1500](/assets/rezultati/ventspils-atklatais-cempionats-2023-1500.pdf) <!--; pieteikumi pa tālruni 29426778 vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com)-->
+- 11-12.novembris, Ventspils atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2023.pdf); rezultāti: [PPC 48](/assets/rezultati/ventspils-atklatais-cempionats-2023-ppc48.pdf), [PPC 60](/assets/rezultati/ventspils-atklatais-cempionats-2023-ppc60.pdf), [1500](/assets/rezultati/ventspils-atklatais-cempionats-2023-1500.pdf)
 - 10.decembris, Walters kauss 2023 4/4, [nolikums](/assets/nolikumi/walters-kauss-2023.pdf); rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2023-4-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2023-4-ppc60.pdf)  <!--pieteikumi pa tālruni 22158877-->
 
 ### 2022
