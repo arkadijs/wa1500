@@ -41,9 +41,9 @@ Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslap�
 
 Sacensības notiek arī Eiropā un citur pasaulē. Oficiālais sacensību [kalendārs](https://wa1500.org/competitions.php).
 
-- Augusts 15-21, [Eiropas čempionāts 2022](http://www.ppc1500.cz/result2022.htm)
+- Augusts 18-25, [Eiropas čempionāts 2024](https://docs.google.com/presentation/d/1XwSit1_EBYwW9TPhdYyvtdXUnsPfrW6I) Rumānijā, Bukareste; [reģistrācija](https://ppcromania.ro/#/Events/European%20Championship).
 - Augusts 15-20, [Pasaules čempionāts 2023](https://www.svenskappccupen.se/?page_id=179), Zviedrijā, Stokholma
-- Augusts 18-25, [Eiropas čempionāts 2024](https://docs.google.com/presentation/d/1XwSit1_EBYwW9TPhdYyvtdXUnsPfrW6I) Rumānijā, Bukareste.
+- Augusts 15-21, [Eiropas čempionāts 2022](http://www.ppc1500.cz/result2022.htm)
 
 ## Klasifikācija
 
