@@ -5,7 +5,7 @@ layout: splash
 ## Vietējās sacensības
 
 PPC 48 attālumi ir no 3 lidz 25m. PPC 60 un 1500 sacensības notiek tur, kur ir peejama 50m distance: Rīgā [Walters](http://shooting.lv) šautuvē un Ventspilī [Sporta nams "Centrs"](https://www.ocventspils.lv/kompleksi/sporta-nams-centrs).
-Sacensību nolikumi tiek publicēti Latvijas Šaušanas Federācijas [mājaslapā](http://www.saufed.lv/index.php?lng=lLat&current=m13p71i778).
+Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [mājaslapā](http://www.saufed.lv/).
 
 ### 2024
 
