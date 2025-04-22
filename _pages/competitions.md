@@ -10,9 +10,9 @@ Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [m
 ### 2025
 
 - 16.marts, Walters kauss 2025 1/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2025-1-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2025-1-ppc60.pdf)
-- 27.aprīlis, Walters kauss 2025 2/4, [nolikums](/assets/nolikumi/walters-kauss-2025.pdf); pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai 20 052 535 <!-- reģistrācija slēgta-->
+- 27.aprīlis, Walters kauss 2025 2/4, [nolikums](/assets/nolikumi/walters-kauss-2025.pdf); reģistrācija slēgta
 - 3-4.maijs, Latvijas atklātais čempionāts WA 1500 (Ventspilī), [nolikums](/assets/nolikumi/latvijas-atklatais-cempionats-2025.pdf); pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com)
-- 12.oktobris, Walters kauss 2025 3/4
+- 12.oktobris, Walters kauss 2025 3/4 <!-- pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai 20 052 535 -->
 - 15-16.novembris, Ventspils atklātais čempionāts WA 1500
 - 7.decembris, Walters kauss 2025 4/4
 
