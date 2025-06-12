@@ -5,7 +5,7 @@ categories: sacensības
 ---
 Pasaules čempionāts 2025. gadā notiks Vacijā, [Alsfeldā](https://maps.app.goo.gl/J36Bag3upoqv7LpH6).
 
-[Ielūgums](/assets/invites/invitation-world-2025.pdf)
+[Ielūgums](/assets/invites/invitation-world-2025.pdf), papildus [informācija](/assets/invites/information-world-2025.pdf).
 
 Rifle 1500 nebūs sakarā ar to, ka disciplīna nav reģistrēta Vacijas oficialo šaušanās sporta disciplīnu sarakstā.
 
