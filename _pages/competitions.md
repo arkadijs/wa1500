@@ -50,7 +50,7 @@ Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [m
 
 Sacensības notiek arī Eiropā un citur pasaulē. Oficiālais sacensību [kalendārs](https://wa1500.org/competitions.php).
 
-- Augusts 3-9, Eiropas čempionāts 2026 Čehijā, [Borek](https://maps.app.goo.gl/Ndwet4N2bHVSMszz6)
+- Augusts 3-9, Eiropas čempionāts 2026 Čehijā, [Borek](https://maps.app.goo.gl/Ndwet4N2bHVSMszz6); [informācija](/assets/invites/information-ec-2026.pdf)
 - Augusts 18-24, Pasaules čempionāts 2025 Vacijā, [Alsfeld](https://maps.app.goo.gl/J36Bag3upoqv7LpH6)
 - Augusts 19-25, [Eiropas čempionāts 2024](https://ppcromania.ro/#/Results) Rumānijā, Bukareste
 - Augusts 15-20, [Pasaules čempionāts 2023](https://www.svenskappccupen.se/?page_id=179) Zviedrijā, Stokholma
