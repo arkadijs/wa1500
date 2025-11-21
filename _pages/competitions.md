@@ -13,8 +13,8 @@ Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [m
 - 27.aprīlis, Walters kauss 2025 2/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2025-2-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2025-2-ppc60.pdf)
 - 3-4.maijs, Latvijas atklātais čempionāts WA 1500 (Ventspilī), [nolikums](/assets/nolikumi/latvijas-atklatais-cempionats-2025.pdf); rezultāti: [PPC 48](/assets/rezultati/latvijas-atklatais-cempionats-2025-ppc48.pdf), [PPC 60](/assets/rezultati/latvijas-atklatais-cempionats-2025-ppc60.pdf), [1500](/assets/rezultati/latvijas-atklatais-cempionats-2025-1500.pdf)
 - 12.oktobris, Walters kauss 2025 3/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2025-3-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2025-3-ppc60.pdf)
-- 15-16.novembris, Ventspils atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2025.pdf); pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com)
-- 7.decembris, Walters kauss 2025 4/4, [nolikums](/assets/nolikumi/walters-kauss-2025.pdf) <!--; pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai 20 052 535 ; reģistrācija slēgta -->
+- 15-16.novembris, Ventspils atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2025.pdf); rezultāti: [PPC 48](/assets/rezultati/ventspils-atklatais-cempionats-2025-ppc48.pdf), [PPC 60](/assets/rezultati/ventspils-atklatais-cempionats-2025-ppc60.pdf), [1500](/assets/rezultati/ventspils-atklatais-cempionats-2025-1500.pdf) <!-- pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com) -->
+- 7.decembris, Walters kauss 2025 4/4, [nolikums](/assets/nolikumi/walters-kauss-2025.pdf); pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai 20 052 535 <!--; reģistrācija slēgta -->
 
 ### 2024
 
@@ -44,7 +44,6 @@ Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [m
 - 20.novembris, Walters kauss 2022 3/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2022-3-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2022-3-ppc60.jpg)
 - 10.decembris, [Ventspils atklātais čempionāts WA 1500](https://www.facebook.com/events/836657437453752/), [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2022.pdf); rezultāti: [PPC 48](/assets/rezultati/ventspils-atklatais-cempionats-2022-ppc48.pdf), [PPC 60](/assets/rezultati/ventspils-atklatais-cempionats-2022-ppc60.pdf), [1500](/assets/rezultati/ventspils-atklatais-cempionats-2022-1500.pdf)
 - 18.decembris, Walters kauss 2022 4/4, [nolikums](/assets/nolikumi/walters-kauss-2022.pdf); rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2022-4-ppc48.jpg), [PPC 60](/assets/rezultati/walters-kauss-2022-4-ppc60.jpg)
- <!--Janvāris 2023., [LPSC](https://lpsc.lv/lv/Sacensiibas) PPC 48 un 60 (samazinātie mērķi / reduced targets 50m)-->
 
 ## Sacensības ārzemēs
 
