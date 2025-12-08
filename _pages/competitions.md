@@ -4,7 +4,7 @@ layout: splash
 ---
 ## Vietējās sacensības
 
-PPC 48 attālumi ir no 3 lidz 25m. PPC 60 un 1500 sacensības notiek tur, kur ir peejama 50m distance: Rīgā [Walters](http://shooting.lv) šautuvē un Ventspilī [Sporta nams "Centrs"](https://www.ocventspils.lv/kompleksi/sporta-nams-centrs).
+PPC 48 attālumi ir no 3 lidz 25m. PPC 60 un 1500 sacensības notiek tur, kur ir peejama 50m distance: Rīgā [Walters](https://shooting.lv) šautuvē un Ventspilī [Sporta nams "Centrs"](https://www.ocventspils.lv/kompleksi/sporta-nams-centrs).
 Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [mājaslapā](http://www.saufed.lv/).
 
 ### 2025
@@ -14,7 +14,7 @@ Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [m
 - 3-4.maijs, Latvijas atklātais čempionāts WA 1500 (Ventspilī), [nolikums](/assets/nolikumi/latvijas-atklatais-cempionats-2025.pdf); rezultāti: [PPC 48](/assets/rezultati/latvijas-atklatais-cempionats-2025-ppc48.pdf), [PPC 60](/assets/rezultati/latvijas-atklatais-cempionats-2025-ppc60.pdf), [1500](/assets/rezultati/latvijas-atklatais-cempionats-2025-1500.pdf)
 - 12.oktobris, Walters kauss 2025 3/4; rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2025-3-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2025-3-ppc60.pdf)
 - 15-16.novembris, Ventspils atklātais čempionāts WA 1500, [nolikums](/assets/nolikumi/ventspils-atklatais-cempionats-2025.pdf); rezultāti: [PPC 48](/assets/rezultati/ventspils-atklatais-cempionats-2025-ppc48.pdf), [PPC 60](/assets/rezultati/ventspils-atklatais-cempionats-2025-ppc60.pdf), [1500](/assets/rezultati/ventspils-atklatais-cempionats-2025-1500.pdf) <!-- pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai e-pastā [riga.hit.factor@gmail.com](mailto:riga.hit.factor@gmail.com) -->
-- 7.decembris, Walters kauss 2025 4/4, [nolikums](/assets/nolikumi/walters-kauss-2025.pdf); pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai 20 052 535 <!--; reģistrācija slēgta -->
+- 7.decembris, Walters kauss 2025 4/4, [nolikums](/assets/nolikumi/walters-kauss-2025.pdf); rezultāti: [PPC 48](/assets/rezultati/walters-kauss-2025-4-ppc48.pdf), [PPC 60](/assets/rezultati/walters-kauss-2025-4-ppc60.pdf) <!-- pieteikumi pa tālruni 29 426 778 (WhatsApp, chat) vai 20 052 535; reģistrācija slēgta -->
 
 ### 2024
 
