@@ -9,8 +9,8 @@ Sacensību nolikumi tiek publicēti šeit un Latvijas Šaušanas Federācijas [m
 
 ### 2026
 
-- 15.marts, Walters kauss 2026 1/4, [nolikums](/assets/nolikumi/walters-kauss-2026.pdf); reģistrācijas kartība nolikumā
-- 26.aprīlis, Walters kauss 2026 2/4; reģistrācijas sākums: 14.aprīlis
+- 15.marts, Walters kauss 2026 1/4;
+- 26.aprīlis, Walters kauss 2026 2/4, [nolikums](/assets/nolikumi/walters-kauss-2026.pdf); reģistrācijas sākums: 14.aprīlis, reģistrācijas kartība nolikumā
 - 2-3.maijs, Latvijas atklātais čempionāts WA 1500 (Ventspilī); reģistrācijas sākums: 14.aprīlis
 - 11.oktobris, Walters kauss 2026 3/4; reģistrācijas sākums: 29.septembris
 - 14-15.novembris, Ventspils atklātais čempionāts WA 1500; reģistrācijas sākums: 20.oktobris
